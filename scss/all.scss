@@ -1,0 +1,14 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.top-header {
+    height: 20vh;
+    background-color: #FCFAF2;
+}
+
+.top-header > .row {
+    height: 100%;
+}
+
+#top-nav {
+    list-style: none;
+}
