@@ -11856,4 +11856,28 @@ nav {
   height: 100vh;
   background-color: blue;
 }
+
+.brand-phase {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  font-size: 27px;
+  color: #26453D;
+  letter-spacing: 0.3em;
+}
+
+#first-phase {
+  padding-top: 10vh;
+  margin-left: 10vh;
+}
+
+#second-phase {
+  padding-bottom: 10vh;
+  margin-right: 10vh;
+}
 /*# sourceMappingURL=all.css.map */
