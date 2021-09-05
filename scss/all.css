@@ -11829,11 +11829,11 @@ fieldset:disabled .btn {
   background-color: #FCFAF2;
 }
 
-.top-header > .row {
-  height: 100%;
+nav {
+  height: 20vh;
 }
 
-#top-nav {
-  list-style: none;
+#top-brand-name {
+  margin-bottom: 0;
 }
 /*# sourceMappingURL=all.css.map */
